@@ -1,0 +1,20 @@
+.topBanner {
+  width: 1200px;
+  height: 100px;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.firstImage {
+  width: 87px;
+  height: 87px;
+}
+.logo {
+  width: 68px;
+  height: 67.11px;
+}
+.banner {
+  width: 1008px;
+  height: 87px;
+}

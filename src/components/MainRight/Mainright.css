@@ -1,0 +1,20 @@
+.mainRight {
+}
+.tradeSection {
+  width: 286.14px;
+  height: 454px;
+  background: #0d0e12;
+  margin-left: 10px;
+  border-radius: 26px;
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.buySell {
+  height: 40px;
+  border: 2px solid rgba(255, 255, 255, 0.5);
+  border-radius: 10px;
+  width: 90%;
+  margin-top: 20px;
+}

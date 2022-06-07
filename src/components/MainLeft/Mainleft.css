@@ -1,0 +1,89 @@
+.upcomingProject {
+  width: 286px;
+  height: 450px;
+  background: #0d0e12;
+  border-radius: 26px;
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.upomingProjectHead {
+  width: 90%;
+  display: flex;
+  height: 50px;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 2px solid #201f1f;
+}
+.upomingProjectHead h2 {
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 18px;
+
+  color: #ffffff;
+}
+.networkSeleUpcoming {
+  width: 80.73px;
+  height: 24.98px;
+  opacity: 0.2;
+  border: 1px solid #ffffff;
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#binancedexUp {
+  height: 9.875px;
+  width: 8.310693740844727px;
+}
+.networkNameUp {
+  font-weight: 400;
+  font-size: 7px;
+  line-height: 8px;
+
+  color: #ffffff;
+  margin-right: 10px;
+  margin-left: 10px;
+  opacity: 0.6;
+}
+#downArrroww {
+  height: 2.9044117927551385px;
+  width: 4.748967647552507px;
+}
+.Upcomingcoins {
+  width: 90%;
+  background: #292b31;
+  border-radius: 16px;
+  margin-top: 10px;
+  display: flex;
+  align-items: center;
+  height: 48px;
+  color: white;
+  font-size: 12px;
+}
+.Upcomingcoins p {
+  margin-right: 70px;
+}
+.upcomingProjectLogo {
+  width: 28px;
+  height: 27.4px;
+  margin-left: 20px;
+  margin-right: 10px;
+}
+
+.upcomingProjectSocial {
+  width: 13px;
+  height: 12.72px;
+  margin-left: 5px;
+}
+.abc {
+  width: 286px;
+  height: 225px;
+  margin-top: 20px;
+}
+.dradonBan {
+  width: 286.16px;
+  height: 91px;
+  margin-top: 20px;
+}

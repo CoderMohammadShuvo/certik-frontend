@@ -1,0 +1,96 @@
+.headingTop {
+  width: 1200px;
+  height: 50px;
+
+  display: flex;
+  align-items: center;
+}
+.contactUsButton {
+  width: 94px;
+  height: 38px;
+  background: rgba(250, 245, 172, 0.2);
+  border-radius: 24px;
+  border: none;
+  font-weight: 600;
+  font-size: 11px;
+  color: #f3c241;
+}
+.infoButton {
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
+  border: 2px solid rgba(255, 255, 255, 0.2);
+  color: white;
+  margin-left: 6px;
+  font-size: 16px;
+  background: transparent;
+}
+.networkSele {
+  width: 127px;
+  height: 38px;
+  border: 2px solid rgba(255, 255, 255, 0.2);
+  border-radius: 20px;
+  margin-left: 45px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#binancedex {
+  height: 17px;
+  width: 14.55331802368164px;
+  margin-right: 5px;
+}
+
+.networkName {
+  color: #ffffff;
+  font-weight: 400;
+  font-size: 13px;
+  opacity: 0.6;
+  margin-right: 5px;
+}
+.bnbBal {
+  font-weight: 500;
+  font-size: 12px;
+  color: #ffffff;
+  margin-left: 11px;
+}
+.searchCoin {
+  width: 400px;
+  height: 42px;
+  background: #292b31;
+  border-radius: 26px;
+  display: flex;
+  align-items: center;
+  margin-left: 50px;
+}
+.searchCoin img {
+  height: 17px;
+  width: 17px;
+  margin-left: 20px;
+}
+.searchCoin input {
+  height: 30px;
+  width: 300px;
+  margin-left: 10px;
+  padding-left: 20px;
+  background: transparent;
+  border: none;
+}
+.socialLogo {
+  height: 17.025806427001953px;
+  width: 20.301538467407227px;
+}
+#twitterLogo {
+  margin-left: 180px;
+  margin-right: 10px;
+}
+.connectButton {
+  width: 94px;
+  height: 38px;
+  background: linear-gradient(180deg, #faf5ac 0%, #f3c241 100%);
+  border-radius: 24px;
+  border: none;
+  margin-left: 20px;
+  color: #000000;
+}
